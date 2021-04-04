@@ -1,13 +1,13 @@
 ### 
 <h2 align="center" style="margin-bottom: 40px">
   Artur Cavalcante here, let's go? 🚀
-</h2>
 
 ## I'm a Full Stack Developer, and i love learn!
 
 - 📚 I like study and discovery new technologies!
 - 🎮 Like games!
 - 🎸 And, play acoustic guitar
+</h2>
 
 <br/>
 
