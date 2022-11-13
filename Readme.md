@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" style="padding-bottom: 2px; padding-left: 5px">
     <img src="https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png" width="42px" style="padding-bottom: 0px; padding-left: 5px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="42px" style="padding-bottom: 0px; padding-left: 5px">
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="50px" style="padding-bottom: 0px; padding-left: 5px">
 </p>
 
 <br/>
