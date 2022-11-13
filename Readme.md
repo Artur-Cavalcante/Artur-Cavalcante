@@ -33,7 +33,3 @@
 </p>
 
 <br/>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/yarturc/collection/tracks) 
